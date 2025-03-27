@@ -1,0 +1,28 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Rule 60 Cellular Automaton
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Joanna
+    family-names: Ruhl
+    email: joanna.ruhl001@umb.edu
+    affiliation: University of Massachusetts Boston
+    orcid: 'https://orcid.org/0000-0002-1475-6891'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.15090895
+    description: Zenodo repository
+repository-code: 'https://github.com/JoRuhl/Rule60-Cellular-Automaton'
+abstract: >-
+  Investigate and animate the behavior of the Rule 60
+  Cellular Automaton
+keywords:
+  - Rule 60
+  - Cellular Automaton
+  - Newman-Moore model
+license: MIT
